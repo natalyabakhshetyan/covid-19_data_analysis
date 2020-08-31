@@ -1,0 +1,24 @@
+condition,number_of_covid_19_deaths
+Influenza and pneumonia,64465.0
+Chronic lower respiratory diseases,12947.0
+Adult respiratory distress syndrome,21054.0
+Respiratory failure,52045.0
+Respiratory arrest,3158.0
+Other diseases of the respiratory system,5311.0
+Hypertensive diseases,33153.0
+Ischemic heart disease,16963.0
+Cardiac arrest,19432.0
+Cardiac arrhythmia,9254.0
+Heart failure,10051.0
+Cerebrovascular diseases,7244.0
+Other diseases of the circulatory system,8236.0
+Sepsis,13222.0
+Malignant neoplasms,7003.0
+Diabetes,24218.0
+Obesity,5160.0
+Alzheimer disease,5290.0
+Vascular and unspecified dementia,17587.0
+Renal failure,12897.0
+"Intentional and unintentional injury, poisoning, and other adverse events",4794.0
+All other conditions and causes (residual),73546.0
+COVID-19,153504.0

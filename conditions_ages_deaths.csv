@@ -1,0 +1,208 @@
+condition,age_group,number_of_covid_19_deaths
+Influenza and pneumonia,0-24,102.0
+Influenza and pneumonia,25-34,532.0
+Influenza and pneumonia,35-44,1346.0
+Influenza and pneumonia,45-54,3710.0
+Influenza and pneumonia,55-64,8890.0
+Influenza and pneumonia,65-74,14495.0
+Influenza and pneumonia,75-84,17190.0
+Influenza and pneumonia,85+,18198.0
+Influenza and pneumonia,Not stated,2.0
+Chronic lower respiratory diseases,0-24,22.0
+Chronic lower respiratory diseases,25-34,57.0
+Chronic lower respiratory diseases,35-44,128.0
+Chronic lower respiratory diseases,45-54,388.0
+Chronic lower respiratory diseases,55-64,1403.0
+Chronic lower respiratory diseases,65-74,3056.0
+Chronic lower respiratory diseases,75-84,4044.0
+Chronic lower respiratory diseases,85+,3848.0
+Chronic lower respiratory diseases,Not stated,1.0
+Adult respiratory distress syndrome,0-24,58.0
+Adult respiratory distress syndrome,25-34,222.0
+Adult respiratory distress syndrome,35-44,582.0
+Adult respiratory distress syndrome,45-54,1719.0
+Adult respiratory distress syndrome,55-64,3621.0
+Adult respiratory distress syndrome,65-74,5527.0
+Adult respiratory distress syndrome,75-84,5102.0
+Adult respiratory distress syndrome,85+,4221.0
+Adult respiratory distress syndrome,Not stated,2.0
+Respiratory failure,0-24,90.0
+Respiratory failure,25-34,371.0
+Respiratory failure,35-44,954.0
+Respiratory failure,45-54,2803.0
+Respiratory failure,55-64,6788.0
+Respiratory failure,65-74,11884.0
+Respiratory failure,75-84,14348.0
+Respiratory failure,85+,14804.0
+Respiratory failure,Not stated,3.0
+Respiratory arrest,0-24,5.0
+Respiratory arrest,25-34,20.0
+Respiratory arrest,35-44,61.0
+Respiratory arrest,45-54,157.0
+Respiratory arrest,55-64,342.0
+Respiratory arrest,65-74,642.0
+Respiratory arrest,75-84,854.0
+Respiratory arrest,85+,1077.0
+Respiratory arrest,Not stated,0.0
+Other diseases of the respiratory system,0-24,17.0
+Other diseases of the respiratory system,25-34,41.0
+Other diseases of the respiratory system,35-44,103.0
+Other diseases of the respiratory system,45-54,261.0
+Other diseases of the respiratory system,55-64,652.0
+Other diseases of the respiratory system,65-74,1106.0
+Other diseases of the respiratory system,75-84,1437.0
+Other diseases of the respiratory system,85+,1694.0
+Other diseases of the respiratory system,Not stated,0.0
+Hypertensive diseases,0-24,13.0
+Hypertensive diseases,25-34,94.0
+Hypertensive diseases,35-44,423.0
+Hypertensive diseases,45-54,1435.0
+Hypertensive diseases,55-64,3945.0
+Hypertensive diseases,65-74,7230.0
+Hypertensive diseases,75-84,9060.0
+Hypertensive diseases,85+,10952.0
+Hypertensive diseases,Not stated,1.0
+Ischemic heart disease,0-24,2.0
+Ischemic heart disease,25-34,22.0
+Ischemic heart disease,35-44,85.0
+Ischemic heart disease,45-54,383.0
+Ischemic heart disease,55-64,1532.0
+Ischemic heart disease,65-74,3444.0
+Ischemic heart disease,75-84,5105.0
+Ischemic heart disease,85+,6388.0
+Ischemic heart disease,Not stated,2.0
+Cardiac arrest,0-24,43.0
+Cardiac arrest,25-34,175.0
+Cardiac arrest,35-44,449.0
+Cardiac arrest,45-54,1267.0
+Cardiac arrest,55-64,2788.0
+Cardiac arrest,65-74,4374.0
+Cardiac arrest,75-84,4890.0
+Cardiac arrest,85+,5446.0
+Cardiac arrest,Not stated,0.0
+Cardiac arrhythmia,0-24,8.0
+Cardiac arrhythmia,25-34,22.0
+Cardiac arrhythmia,35-44,54.0
+Cardiac arrhythmia,45-54,206.0
+Cardiac arrhythmia,55-64,672.0
+Cardiac arrhythmia,65-74,1622.0
+Cardiac arrhythmia,75-84,2711.0
+Cardiac arrhythmia,85+,3959.0
+Cardiac arrhythmia,Not stated,0.0
+Heart failure,0-24,4.0
+Heart failure,25-34,37.0
+Heart failure,35-44,79.0
+Heart failure,45-54,257.0
+Heart failure,55-64,841.0
+Heart failure,65-74,1705.0
+Heart failure,75-84,2753.0
+Heart failure,85+,4375.0
+Heart failure,Not stated,0.0
+Cerebrovascular diseases,0-24,4.0
+Cerebrovascular diseases,25-34,22.0
+Cerebrovascular diseases,35-44,74.0
+Cerebrovascular diseases,45-54,257.0
+Cerebrovascular diseases,55-64,810.0
+Cerebrovascular diseases,65-74,1626.0
+Cerebrovascular diseases,75-84,2107.0
+Cerebrovascular diseases,85+,2343.0
+Cerebrovascular diseases,Not stated,1.0
+Other diseases of the circulatory system,0-24,35.0
+Other diseases of the circulatory system,25-34,90.0
+Other diseases of the circulatory system,35-44,202.0
+Other diseases of the circulatory system,45-54,477.0
+Other diseases of the circulatory system,55-64,1058.0
+Other diseases of the circulatory system,65-74,1785.0
+Other diseases of the circulatory system,75-84,2051.0
+Other diseases of the circulatory system,85+,2538.0
+Other diseases of the circulatory system,Not stated,0.0
+Sepsis,0-24,30.0
+Sepsis,25-34,126.0
+Sepsis,35-44,322.0
+Sepsis,45-54,959.0
+Sepsis,55-64,2266.0
+Sepsis,65-74,3618.0
+Sepsis,75-84,3334.0
+Sepsis,85+,2567.0
+Sepsis,Not stated,0.0
+Malignant neoplasms,0-24,20.0
+Malignant neoplasms,25-34,29.0
+Malignant neoplasms,35-44,87.0
+Malignant neoplasms,45-54,248.0
+Malignant neoplasms,55-64,948.0
+Malignant neoplasms,65-74,1828.0
+Malignant neoplasms,75-84,2119.0
+Malignant neoplasms,85+,1724.0
+Malignant neoplasms,Not stated,0.0
+Diabetes,0-24,39.0
+Diabetes,25-34,163.0
+Diabetes,35-44,546.0
+Diabetes,45-54,1681.0
+Diabetes,55-64,3950.0
+Diabetes,65-74,6490.0
+Diabetes,75-84,6426.0
+Diabetes,85+,4922.0
+Diabetes,Not stated,1.0
+Obesity,0-24,76.0
+Obesity,25-34,259.0
+Obesity,35-44,577.0
+Obesity,45-54,933.0
+Obesity,55-64,1277.0
+Obesity,65-74,1213.0
+Obesity,75-84,636.0
+Obesity,85+,189.0
+Obesity,Not stated,0.0
+Alzheimer disease,0-24,0.0
+Alzheimer disease,25-34,0.0
+Alzheimer disease,35-44,0.0
+Alzheimer disease,45-54,2.0
+Alzheimer disease,55-64,47.0
+Alzheimer disease,65-74,343.0
+Alzheimer disease,75-84,1516.0
+Alzheimer disease,85+,3382.0
+Alzheimer disease,Not stated,0.0
+Vascular and unspecified dementia,0-24,0.0
+Vascular and unspecified dementia,25-34,0.0
+Vascular and unspecified dementia,35-44,2.0
+Vascular and unspecified dementia,45-54,19.0
+Vascular and unspecified dementia,55-64,269.0
+Vascular and unspecified dementia,65-74,1626.0
+Vascular and unspecified dementia,75-84,5130.0
+Vascular and unspecified dementia,85+,10541.0
+Vascular and unspecified dementia,Not stated,0.0
+Renal failure,0-24,14.0
+Renal failure,25-34,102.0
+Renal failure,35-44,263.0
+Renal failure,45-54,849.0
+Renal failure,55-64,1871.0
+Renal failure,65-74,3259.0
+Renal failure,75-84,3394.0
+Renal failure,85+,3143.0
+Renal failure,Not stated,2.0
+"Intentional and unintentional injury, poisoning, and other adverse events",0-24,36.0
+"Intentional and unintentional injury, poisoning, and other adverse events",25-34,114.0
+"Intentional and unintentional injury, poisoning, and other adverse events",35-44,164.0
+"Intentional and unintentional injury, poisoning, and other adverse events",45-54,287.0
+"Intentional and unintentional injury, poisoning, and other adverse events",55-64,564.0
+"Intentional and unintentional injury, poisoning, and other adverse events",65-74,915.0
+"Intentional and unintentional injury, poisoning, and other adverse events",75-84,1147.0
+"Intentional and unintentional injury, poisoning, and other adverse events",85+,1565.0
+"Intentional and unintentional injury, poisoning, and other adverse events",Not stated,2.0
+All other conditions and causes (residual),0-24,240.0
+All other conditions and causes (residual),25-34,645.0
+All other conditions and causes (residual),35-44,1437.0
+All other conditions and causes (residual),45-54,3946.0
+All other conditions and causes (residual),55-64,9864.0
+All other conditions and causes (residual),65-74,17010.0
+All other conditions and causes (residual),75-84,19187.0
+All other conditions and causes (residual),85+,21209.0
+All other conditions and causes (residual),Not stated,8.0
+COVID-19,0-24,309.0
+COVID-19,25-34,1173.0
+COVID-19,35-44,3042.0
+COVID-19,45-54,8019.0
+COVID-19,55-64,19191.0
+COVID-19,65-74,32505.0
+COVID-19,75-84,40446.0
+COVID-19,85+,48811.0
+COVID-19,Not stated,8.0
